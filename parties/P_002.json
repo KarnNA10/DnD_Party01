@@ -1,0 +1,15 @@
+{
+  "nombreParty": "Sombras del Norte",
+  "personajes": [
+    {
+      "nombrePersonaje": "Thorin",
+      "nombreJugador": "Juan",
+      "nivel": 2,
+      "clase": "Bárbaro",
+      "especie": "Enano",
+      "background": "Forajido",
+      "alignment": "Caótico Neutral"
+    }
+  ]
+}
+

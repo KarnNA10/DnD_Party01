@@ -1,0 +1,23 @@
+{
+  "nombreParty": "Los Dragones Rojos",
+  "personajes": [
+    {
+      "nombrePersonaje": "Arthas",
+      "nombreJugador": "Carlos",
+      "nivel": 1,
+      "clase": "Guerrero",
+      "especie": "Humano",
+      "background": "Noble",
+      "alignment": "Legal Bueno"
+    },
+    {
+      "nombrePersonaje": "Luna",
+      "nombreJugador": "María",
+      "nivel": 3,
+      "clase": "Maga",
+      "especie": "Elfa",
+      "background": "Académica",
+      "alignment": "Neutral Bueno"
+    }
+  ]
+}
